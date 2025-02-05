@@ -1,0 +1,8 @@
+j'ai demande a chatgpt de me decrire le script pearl
+
+j'ai tcheck comment fonctionnait les argument dans les CGI perl sur
+https://stackoverflow.com/questions/42479268/how-do-i-handle-in-perl-cgi-url-parameter-where-the-parameter-value-contains
+
+et derriere yavait plus qu'a mettre la commande get flag dans le echo avec $()
+et bien mettre des single quote sinon curl pete un cable 
+

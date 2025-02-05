@@ -1,0 +1,6 @@
+cherche les fichiers possede par le user avec find / -user flag00 2> /dev/null
+
+puis un classique code caesar avec dcode 
+
+https://www.dcode.fr/caesar-cipher
+qui nous donne le mot de passe nottohardhere

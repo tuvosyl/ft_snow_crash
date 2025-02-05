@@ -1,0 +1,9 @@
+analyse avec wireshark : analyse -> follow-> TCP stream
+
+
+ft_wandr...NDRel.L0L
+ca marche pas
+les . valent 7F en hexa
+https://fr.wikibooks.org/wiki/Les_ASCII_de_0_%C3%A0_127/La_table_ASCII
+c'est des backspace
+donc le mot de passe est ft_waNDReL0L
